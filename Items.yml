@@ -4,8 +4,8 @@ ORE_CRUSHER:
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&e1: Build the MultiBlock as shown'
-  - '&e2: Put the Item you want to crush into the Dispenser'
+  - '&e1: Baue die MultiBlock-Konstruktion wie gezeigt'
+  - '&e2: Lege das Item, das du verkleinern willst, in den Werfer'
   - '&e3: Right Click the Nether Fence'
 GRANDMAS_WALKING_STICK:
   enabled: true
@@ -28,19 +28,19 @@ ENHANCED_CRAFTING_TABLE:
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&e1: Build the MultiBlock as shown'
-  - '&e2: Put the Ingredients of the Item'
-  - '&eyou want to craft into the Dispenser'
-  - '&e3: Make sure they are in the right Shape!'
-  - '&e4: Right Click the Workbench'
+  - '&e1: Baue die MultiBlock-Konstruktion wie gezeigt'
+  - '&e2: Lege die Zutaten des Items,'
+  - '&eydas du machen willst, in den Dispenser.'
+  - '&e3: Stelle sicher, dass sie richtig angeordnet sind!'
+  - '&e4: Rechtsklicke die Werkbank'
 PORTABLE_ENCHANTER:
   enabled: true
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&eThis Item allows you to'
-  - '&eenchant from Level 1-30'
-  - '&ewithout an Enchantment Table'
+  - '&eDas Item erlaubt dir,'
+  - '&ebis Level 30 zu verzaubern,'
+  - '&eohne dabei einen Zaubertisch zu besitzen.'
 PORTABLE_DUSTBIN:
   enabled: true
   can-be-used-in-workbenches: false
@@ -55,27 +55,27 @@ GRIND_STONE:
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&e1: Build the MultiBlock as shown'
-  - '&e2: Put the Item you want to grind into the Dispenser'
-  - '&e3: Right Click the Fence'
+  - '&e1: Baue die MultiBlock-Konstruktion wie gezeigt'
+  - '&e2: Lege das Item, das zerkleinert werden soll, in den Werfer'
+  - '&e3: Rechtsklicke auf den Zaun'
 ARMOR_FORGE:
   enabled: true
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&e1: Build the MultiBlock as shown'
-  - '&e2: Put the Ingredients of the Item'
-  - '&eyou want to craft into the Dispenser'
-  - '&e3: Make sure they are in the right Shape!'
-  - '&e4: Right Click the Anvil'
+  - '&e1: Baue die MultiBlock-Konstruktion wie gezeigt'
+  - '&e2: Lege die Zutaten des Items,'
+  - '&edas du craften willst, in den Werfer.'
+  - '&e3: Stelle sicher, dass sie richtig angeordnet sind!'
+  - '&e4: Rechtsklicke auf den Amboss'
 COMPRESSOR:
   enabled: true
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&e1: Build the MultiBlock as shown'
-  - '&e2: Put the Item you want to compress into the Dispenser'
-  - '&e3: Right Click the Nether Fence'
+  - '&e1: Baue die MultiBlock-Konstruktion wie gezeigt'
+  - '&e2: Lege das Item, das gepresst werden soll, in den Werfer'
+  - '&e3: Rechtsklicke den Netherzaun'
 MAGIC_LUMP_1:
   enabled: true
   can-be-used-in-workbenches: false
@@ -191,19 +191,19 @@ SMELTERY:
   chance:
     fireBreak: 34
   description:
-  - '&e1: Build the MultiBlock as shown'
-  - '&e2: Put the Ingredients of the Item'
-  - '&eyou want to craft into the Dispenser'
-  - '&e3: Right Click the Nether Fence'
+  - '&e1: Baue die MultiBlock-Konstruktion wie gezeigt'
+  - '&e2: Lege die Zutaten für das Item, das'
+  - '&egecraftet werden soll, in den Werfer.'
+  - '&e3: Rechtsklicke den Netherzaun'
 PRESSURE_CHAMBER:
   enabled: true
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&e1: Build the MultiBlock as shown'
-  - '&e2: Put the Ingredients of the Item'
-  - '&eyou want to craft into the Dispenser'
-  - '&e3: Right Click the Cauldron'
+  - '&e1: Baue die MultiBlock-Konstruktion wie gezeigt'
+  - '&e2: Lege die Zutaten für das Item,'
+  - '&edas gecraftet werden soll, in den Dispenser'
+  - '&e3: Rechtsklicke den Kessel'
 GLOWSTONE_HELMET:
   enabled: true
   can-be-used-in-workbenches: false
@@ -453,11 +453,11 @@ CHARGING_STATION:
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&e1: Build the MultiBlock as shown'
-  - '&e2: Put the Item you want to charge in the top Slot'
-  - '&e3: Put the Battery/Energy Cell/Fuel Cell'
-  - '&eyou want to drain from into the bottom Slot'
-  - '&e4: Right Click the Nether Fence'
+  - '&e1: Baue die MultiBlock-Konstruktion wie gezeigt'
+  - '&e2: Lege das Item, das aufgeladen werden soll, in den oberen Slot'
+  - '&e3: Lege die Batterie/Energiezelle/Treibstoffzelle,'
+  - '&evon der du den Strom haben willst in den unteren Slot'
+  - '&e4: Rechtsklicke den Netherzaun'
 DURALUMIN_JETPACK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -535,11 +535,11 @@ MAGIC_WORKBENCH:
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&e1: Build the MultiBlock as shown'
-  - '&e2: Put the Ingredients of the Item'
-  - '&eyou want to craft into the Dispenser'
-  - '&e3: Make sure they are in the right Shape!'
-  - '&e4: Right Click the Workbench'
+  - '&e1: Baue die MultiBlock-Konstruktion wie gezeigt'
+  - '&e2: Lege die Zutaten für das Item,'
+  - '&edas gecraftet werden soll, in den Werfer'
+  - '&e3: Stelle sicher, dass sie richtig angeordnet sind!'
+  - '&e4: Rechtsklicke die Werkbank'
 STAFF_ELEMENTAL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -559,19 +559,19 @@ DURALUMIN_MULTI_TOOL:
   mode:
     '0':
       enabled: true
-      name: Portable Crafter
+      name: Tragbarer Crafter
       item: PORTABLE_CRAFTER
     '1':
       enabled: true
-      name: Magic Eye of Ender
+      name: Magisches Enderauge
       item: MAGIC_EYE_OF_ENDER
     '2':
       enabled: true
-      name: Wind Staff
+      name: Windstab
       item: STAFF_ELEMENTAL_WIND
     '3':
       enabled: true
-      name: Grappling Hook
+      name: Enterhaken
       item: GRAPPLING_HOOK
 SOLDER_MULTI_TOOL:
   enabled: true
@@ -580,19 +580,19 @@ SOLDER_MULTI_TOOL:
   mode:
     '0':
       enabled: true
-      name: Portable Crafter
+      name: Tragbarer Crafter
       item: PORTABLE_CRAFTER
     '1':
       enabled: true
-      name: Magic Eye of Ender
+      name: Magisches Enderauge
       item: MAGIC_EYE_OF_ENDER
     '2':
       enabled: true
-      name: Wind Staff
+      name: Windstab
       item: STAFF_ELEMENTAL_WIND
     '3':
       enabled: true
-      name: Grappling Hook
+      name: Enterhaken
       item: GRAPPLING_HOOK
 BILLON_MULTI_TOOL:
   enabled: true
@@ -601,19 +601,19 @@ BILLON_MULTI_TOOL:
   mode:
     '0':
       enabled: true
-      name: Portable Crafter
+      name: Tragbarer Crafter
       item: PORTABLE_CRAFTER
     '1':
       enabled: true
-      name: Magic Eye of Ender
+      name: Magisches Enderauge
       item: MAGIC_EYE_OF_ENDER
     '2':
       enabled: true
-      name: Wind Staff
+      name: Windstab
       item: STAFF_ELEMENTAL_WIND
     '3':
       enabled: true
-      name: Grappling Hook
+      name: Enterhaken
       item: GRAPPLING_HOOK
 STEEL_MULTI_TOOL:
   enabled: true
@@ -622,19 +622,19 @@ STEEL_MULTI_TOOL:
   mode:
     '0':
       enabled: true
-      name: Portable Crafter
+      name: Tragbarer Crafter
       item: PORTABLE_CRAFTER
     '1':
       enabled: true
-      name: Magic Eye of Ender
+      name: Magisches Enderauge
       item: MAGIC_EYE_OF_ENDER
     '2':
       enabled: true
-      name: Wind Staff
+      name: Windstab
       item: STAFF_ELEMENTAL_WIND
     '3':
       enabled: true
-      name: Grappling Hook
+      name: Enterhaken
       item: GRAPPLING_HOOK
 DAMASCUS_STEEL_MULTI_TOOL:
   enabled: true
@@ -643,19 +643,19 @@ DAMASCUS_STEEL_MULTI_TOOL:
   mode:
     '0':
       enabled: true
-      name: Portable Crafter
+      name: Tragbarer Crafter
       item: PORTABLE_CRAFTER
     '1':
       enabled: true
-      name: Magic Eye of Ender
+      name: Magisches Enderauge
       item: MAGIC_EYE_OF_ENDER
     '2':
       enabled: true
-      name: Wind Staff
+      name: Windstab
       item: STAFF_ELEMENTAL_WIND
     '3':
       enabled: true
-      name: Grappling Hook
+      name: Enterhaken
       item: GRAPPLING_HOOK
 REINFORCED_ALLOY_MULTI_TOOL:
   enabled: true
@@ -664,19 +664,19 @@ REINFORCED_ALLOY_MULTI_TOOL:
   mode:
     '0':
       enabled: true
-      name: Portable Crafter
+      name: Tragbarer Crafter
       item: PORTABLE_CRAFTER
     '1':
       enabled: true
-      name: Magic Eye of Ender
+      name: Magisches Enderauge
       item: MAGIC_EYE_OF_ENDER
     '2':
       enabled: true
-      name: Wind Staff
+      name: Windstab
       item: STAFF_ELEMENTAL_WIND
     '3':
       enabled: true
-      name: Grappling Hook
+      name: Enterhaken
       item: GRAPPLING_HOOK
 CARBONADO_MULTI_TOOL:
   enabled: true
@@ -685,32 +685,32 @@ CARBONADO_MULTI_TOOL:
   mode:
     '0':
       enabled: true
-      name: Portable Crafter
+      name: Tragbarer Crafter
       item: PORTABLE_CRAFTER
     '1':
       enabled: true
-      name: Magic Eye of Ender
+      name: Magisches Enderauge
       item: MAGIC_EYE_OF_ENDER
     '2':
       enabled: true
-      name: Wind Staff
+      name: Windstab
       item: STAFF_ELEMENTAL_WIND
     '3':
       enabled: true
-      name: Grappling Hook
+      name: Enterhaken
       item: GRAPPLING_HOOK
     '4':
       enabled: true
-      name: Gold Pan
+      name: Goldpfanne
       item: GOLD_PAN
 ORE_WASHER:
   enabled: true
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&e1: Build the MultiBlock as shown'
-  - '&e2: Put the Item you want to wash into the Dispenser'
-  - '&e3: Right Click the Fence'
+  - '&e1: Baue die MultiBlock-Konstruktion wie gezeigt'
+  - '&e2: Lege das Item, das gewaschen werden soll, in den Werfer'
+  - '&e3: Rechtsklicke den Zaun'
 GOLD_24K:
   enabled: true
   can-be-used-in-workbenches: false
@@ -768,8 +768,8 @@ SOLAR_PANEL:
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&eThis does not actually generate any Power!'
-  - '&eIt is only used for Crafting Purposes!'
+  - '&eDieses Item generiert keinen Strom!'
+  - '&eEs wird nur für Craftingzwecke gedacht.'
 SOLAR_HELMET:
   enabled: true
   can-be-used-in-workbenches: false
@@ -798,9 +798,9 @@ ANVIL_TALISMAN:
   required-permission: ''
 ENDER_ANVIL_TALISMAN:
   description:
-  - '&eEnder Talismans have the advantage'
-  - '&eof still working while they'
-  - '&eare in your Ender Chest'
+  - '&eEnder Talismane haben den Vorteil,'
+  - '&edass sie immer noch funktionieren,'
+  - '&ewährend sie in einer Endertruhe sind'
   enabled: true
   can-be-used-in-workbenches: false
   required-permission: ''
@@ -810,9 +810,9 @@ MINER_TALISMAN:
   required-permission: ''
 ENDER_MINER_TALISMAN:
   description:
-  - '&eEnder Talismans have the advantage'
-  - '&eof still working while they'
-  - '&eare in your Ender Chest'
+  - '&eEnder Talismane haben den Vorteil,'
+  - '&edass sie immer noch funktionieren,'
+  - '&ewährend sie in einer Endertruhe sind'
   enabled: true
   can-be-used-in-workbenches: false
   required-permission: ''
@@ -822,9 +822,9 @@ HUNTER_TALISMAN:
   required-permission: ''
 ENDER_HUNTER_TALISMAN:
   description:
-  - '&eEnder Talismans have the advantage'
-  - '&eof still working while they'
-  - '&eare in your Ender Chest'
+  - '&eEnder Talismane haben den Vorteil,'
+  - '&edass sie immer noch funktionieren,'
+  - '&ewährend sie in einer Endertruhe sind'
   enabled: true
   can-be-used-in-workbenches: false
   required-permission: ''
@@ -834,9 +834,9 @@ LAVA_TALISMAN:
   required-permission: ''
 ENDER_LAVA_TALISMAN:
   description:
-  - '&eEnder Talismans have the advantage'
-  - '&eof still working while they'
-  - '&eare in your Ender Chest'
+  - '&eEnder Talismane haben den Vorteil,'
+  - '&edass sie immer noch funktionieren,'
+  - '&ewährend sie in einer Endertruhe sind'
   enabled: true
   can-be-used-in-workbenches: false
   required-permission: ''
@@ -846,9 +846,9 @@ WATER_TALISMAN:
   required-permission: ''
 ENDER_WATER_TALISMAN:
   description:
-  - '&eEnder Talismans have the advantage'
-  - '&eof still working while they'
-  - '&eare in your Ender Chest'
+  - '&eEnder Talismane haben den Vorteil,'
+  - '&edass sie immer noch funktionieren,'
+  - '&ewährend sie in einer Endertruhe sind'
   enabled: true
   can-be-used-in-workbenches: false
   required-permission: ''
@@ -858,9 +858,9 @@ ANGEL_TALISMAN:
   required-permission: ''
 ENDER_ANGEL_TALISMAN:
   description:
-  - '&eEnder Talismans have the advantage'
-  - '&eof still working while they'
-  - '&eare in your Ender Chest'
+  - '&eEnder Talismane haben den Vorteil,'
+  - '&edass sie immer noch funktionieren,'
+  - '&ewährend sie in einer Endertruhe sind'
   enabled: true
   can-be-used-in-workbenches: false
   required-permission: ''
@@ -870,9 +870,9 @@ FIRE_TALISMAN:
   required-permission: ''
 ENDER_FIRE_TALISMAN:
   description:
-  - '&eEnder Talismans have the advantage'
-  - '&eof still working while they'
-  - '&eare in your Ender Chest'
+  - '&eEnder Talismane haben den Vorteil,'
+  - '&edass sie immer noch funktionieren,'
+  - '&ewährend sie in einer Endertruhe sind'
   enabled: true
   can-be-used-in-workbenches: false
   required-permission: ''
@@ -1012,9 +1012,9 @@ MAGICIAN_TALISMAN:
         '3': true
 ENDER_MAGICIAN_TALISMAN:
   description:
-  - '&eEnder Talismans have the advantage'
-  - '&eof still working while they'
-  - '&eare in your Ender Chest'
+  - '&eEnder Talismane haben den Vorteil,'
+  - '&edass sie immer noch funktionieren,'
+  - '&ewährend sie in einer Endertruhe sind'
   enabled: true
   can-be-used-in-workbenches: false
   required-permission: ''
@@ -1024,9 +1024,9 @@ TRAVELLER_TALISMAN:
   required-permission: ''
 ENDER_TRAVELLER_TALISMAN:
   description:
-  - '&eEnder Talismans have the advantage'
-  - '&eof still working while they'
-  - '&eare in your Ender Chest'
+  - '&eEnder Talismane haben den Vorteil,'
+  - '&edass sie immer noch funktionieren,'
+  - '&ewährend sie in einer Endertruhe sind'
   enabled: true
   can-be-used-in-workbenches: false
   required-permission: ''
@@ -1036,9 +1036,9 @@ WARRIOR_TALISMAN:
   required-permission: ''
 ENDER_WARRIOR_TALISMAN:
   description:
-  - '&eEnder Talismans have the advantage'
-  - '&eof still working while they'
-  - '&eare in your Ender Chest'
+  - '&eEnder Talismane haben den Vorteil,'
+  - '&edass sie immer noch funktionieren,'
+  - '&ewährend sie in einer Endertruhe sind'
   enabled: true
   can-be-used-in-workbenches: false
   required-permission: ''
@@ -1048,9 +1048,9 @@ KNIGHT_TALISMAN:
   required-permission: ''
 ENDER_KNIGHT_TALISMAN:
   description:
-  - '&eEnder Talismans have the advantage'
-  - '&eof still working while they'
-  - '&eare in your Ender Chest'
+  - '&eEnder Talismane haben den Vorteil,'
+  - '&edass sie immer noch funktionieren,'
+  - '&ewährend sie in einer Endertruhe sind'
   enabled: true
   can-be-used-in-workbenches: false
   required-permission: ''
@@ -1084,9 +1084,9 @@ WHIRLWIND_TALISMAN:
   required-permission: ''
 ENDER_WHIRLWIND_TALISMAN:
   description:
-  - '&eEnder Talismans have the advantage'
-  - '&eof still working while they'
-  - '&eare in your Ender Chest'
+  - '&eEnder Talismane haben den Vorteil,'
+  - '&edass sie immer noch funktionieren,'
+  - '&ewährend sie in einer Endertruhe sind'
   enabled: true
   can-be-used-in-workbenches: false
   required-permission: ''
@@ -1236,18 +1236,18 @@ BANDAGE:
   required-permission: ''
   enable-bleeding: true
   description:
-  - '&eIf you have not noticed yet, sometimes'
-  - '&eyou can start to bleed. To stop bleeding'
-  - '&eyou have to craft some Bandages'
+  - '&eFalls du es noch nicht bemerkt haben solltest:'
+  - '&eManchmal fängt man an zu bluten. Um die Blutung zu stoppen,'
+  - '&emuss man Bandagen craften'
 SPLINT:
   enabled: true
   can-be-used-in-workbenches: false
   required-permission: ''
   enable-broken-legs: true
   description:
-  - '&eIf you have not noticed yet, sometimes'
-  - '&eyou can break your Leg. To fix it'
-  - '&eyou have to craft some Splints'
+  - '&eFalls du es noch nicht bemerkt haben solltest:'
+  - '&eSelten kann man sich das Bein brechen. Um es zu stabilisieren,'
+  - '&emusst du eine Schiene craften.'
 CAN:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1273,16 +1273,16 @@ HERCULES_PICKAXE:
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&eThis Pickaxe does not only turn'
-  - '&eIron/Gold into Dust, it also'
-  - '&edoubles all Ores you mine'
+  - '&eDiese Spitzhacke macht nicht nur'
+  - '&eEisen/Gold zu Pulver, sie verdoppelt'
+  - '&eauch alle Erze, die du minest.'
 SAW_MILL:
   enabled: true
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&e1: Build the MultiBlock as shown'
-  - '&e2: Right Click the Workbench'
+  - '&e1: Baue die gezeigte MultiBlock-Konstruktion'
+  - '&e2: Rechtsklicke die Werkbank'
 SAW_MILL2:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1321,12 +1321,12 @@ ADVANCED_DIGITAL_MINER:
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&e1: Build it where you suspect Ores'
-  - '&e2: Right Click the Dispenser'
-  - '&eIt turns Iron/Gold into Dust'
-  - '&ebut also doubles any other Ores'
+  - '&e1: Baue es dahin, wo du viele Erze vermutest'
+  - '&e2: Rechtsklicke den Werfer'
+  - '&eEs macht aus Eisen/Gold Pulver und'
+  - '&everdoppelt auch alle anderen Erze'
   - ''
-  - '&7Range: &b12x12'
+  - '&7Reichweite: &b12x12'
 GOLD_24K_BLOCK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1336,9 +1336,9 @@ COMPOSTER:
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&e1: Craft the Machine as shown'
-  - '&e2: Right Click the Cauldron with the Ingredient'
-  - '&efor the Item you want to craft'
+  - '&e1: Crafte die Maschine wie gezeigt'
+  - '&e2: Rechtsklicke den Kessel mit der Zutat in der Hand,'
+  - '&edie für das Item, das du craften möchtest, benötigt wird.'
 FARMER_SHOES:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1354,8 +1354,8 @@ AUTOMATED_PANNING_MACHINE:
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&e1: Build the MultiBlock as shown'
-  - '&e2: Right Click the Trap Door with Gravel'
+  - '&e1: Baue die gezeigte MultiBlock-Konstruktion'
+  - '&e2: Rechtsklicke die Falltür mit Kies'
 BOOTS_OF_THE_STOMPER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1385,10 +1385,10 @@ CRUCIBLE:
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&e1: Craft the Machine as shown'
-  - '&e2: Right Click the Crucible with the Ingredient'
-  - '&efor the Item you want to craft'
-  - '&e3: Watch it generating a Liquid (Takes a few Seconds)'
+  - '&e1: Crafte die Maschine wie gezeigt'
+  - '&e2: Rechtsklicke den Kessel mit der Zutat,'
+  - '&edie für das Craften des Items benötigt wird'
+  - '&e3: Beobachte, wie die Flüssigkeit generiert wird (dauert ein paar Sekunden)'
 GILDED_BACKPACK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1400,12 +1400,12 @@ AUTONOMOUS_PICKAXE:
   unbreakable-blocks:
   - BEDROCK
   description:
-  - '&e1: Place a Dispenser'
-  - '&e2: Make the Dispenser face the Block you want to break'
-  - '&e3: Place a Chest on the opposite Side'
-  - '&e4: Put the Autonomous Pickaxe into the Dispenser'
-  - '&e5: Everytime it receives a Redstone Pulse'
-  - '&eit will try to break the faced Block'
+  - '&e1: Platziere einen Werfer'
+  - '&e2: Der Werfer muss den Block anschauen, der abgebaut werden soll'
+  - '&e3: Platziere eine Truhe auf die gegenüberliegende Seite'
+  - '&e4: Lege die Autonomous Pickaxe in den Werfer'
+  - '&e5: Jedes Mal, wenn der Werfer einen Redstone-Impuls bekommt,'
+  - '&ewird der vom Werfer angeschaute Block abgebaut.'
 HEAVY_METAL_HELMET:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1431,26 +1431,26 @@ AUTONOMOUS_HOE:
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&e1: Place a Dispenser'
-  - '&e2: Make the Dispenser face the Block you want to harvest'
-  - '&e3: Place a Chest on the opposite Side'
-  - '&e4: Put the Autonomous Hoe into the Dispenser'
-  - '&e5: Everytime it receives a Redstone Pulse'
-  - '&eit will try to harvest the faced Block'
-  - '&eSupported are: Wheat, Potatoes, Carrots, Nether Warts'
+  - '&e1: Platziere einen Werfer'
+  - '&e2: Der Werfer muss den zu erntenden Block anschauen'
+  - '&e3: Platziere eine Truhe an die gegenüberliegende Seite'
+  - '&e4: Lege die Autonomous Hoe in den Werfer'
+  - '&e5: Jedes Mal, wenn der Werfer einen Redstone-Impuls erhält,'
+  - '&ewird versucht, den zu erntenden Block abzubauen.'
+  - '&eUnterstützt sind: Weizen, Kartoffeln, Karotten, Netherwarzen'
 AUTONOMOUS_FLINT_AND_STEEL:
   enabled: true
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&e1: Place a Dispenser'
-  - '&e2: Make the Dispenser face a Chest'
-  - '&e3: Place a Chest on the opposite Side'
-  - '&e4: Put the Autonomous Flint and Steel into the Dispenser'
-  - '&e5: Everytime it receives a Redstone Pulse'
-  - '&eit will grab 1 Item from the faced Chest'
-  - '&eand smelt it. The Result will be put into'
-  - '&ethe Chest on the other Side'
+  - '&e1: Platziere den Werfer'
+  - '&e2: Der Werfer muss auf eine Truhe zeigen'
+  - '&e3: Platziere eine Truhe an die gegenüberliegende Seite'
+  - '&e4: Lege das Autonomous Flint and Steel in den Werfer'
+  - '&e5: Jedes Mal, wenn es einen Redstoneimpuls erhält,'
+  - '&ewird versucht, ein Item aus der angeschauten Truhe zu nehmen'
+  - '&eund es zu schmelzen. Das Ergebnis wird in die Truhe auf der'
+  - '&eanderen seite gelegt'
 MAGNET:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1588,9 +1588,9 @@ JUICER:
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&e1: Build the MultiBlock as shown'
-  - '&e2: Put your fruits into the Dispenser'
-  - '&e3: Right Click the Nether fence'
+  - '&e1: Baue die gezeigte MultiBlock-Konstruktion'
+  - '&e2: Lege die Früchte in den Werfer'
+  - '&e3: Rechtsklicke den Netherzaun'
 APPLE_JUICE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1624,10 +1624,10 @@ SOUL_FORGE:
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&e1: Craft this Machine as shown'
-  - '&e2: Place it down'
-  - '&e3:Right click it with a Broken Spawner'
-  - '&eto turn it into a Reinforced Spawner'
+  - '&e1: Crafte die Maschine wie gezeigt'
+  - '&e2: Platziere sie down'
+  - '&e3: Rechtsklicke es mit einem Broken Spawner,'
+  - '&eum es in einen Reinforced Spawner umzuwandeln'
 ENHANCED_FURNACE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1701,25 +1701,25 @@ AUTONOMOUS_WASHER:
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&e1: Make the Machine face a Chest'
-  - '&e2: Put Cobblestone or Sifted Ore into it'
-  - '&e3: Apply a Redstone signal'
+  - '&e1: Die Maschine muss auf eine Truhe zeigen'
+  - '&e2: Lege Cobblestone oder gesiebte Erze in diese'
+  - '&e3: Schalte ein Redstonesignal'
 AUTONOMOUS_PANNING_MACHINE:
   enabled: true
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&e1: Make the Machine face a Chest'
-  - '&e2: Put Gravel into it'
-  - '&e3: Apply a Redstone signal'
+  - '&e1: Die Maschine muss auf eine Truhe zeigen'
+  - '&e2: Lege Kies in diese'
+  - '&e3: Schalte ein Redstonesignal'
 AUTONOMOUS_SMELTER:
   enabled: true
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&e1: Make the Machine face a Chest'
-  - '&e2: Put Dust into it'
-  - '&e3: Apply a Redstone signal'
+  - '&e1: Die Maschine muss auf eine Truhe zeigen'
+  - '&e2: Lege Pulver von Erzen etc. in diese'
+  - '&e3: Schalte ein Redstonesignal'
 SCROLL_OF_DIMENSIONAL_TELEPOSITION:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1753,8 +1753,8 @@ SOLAR_ARRAY:
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&eThis does not actually generate any Power!'
-  - '&eIt is only used for Crafting Purposes!'
+  - '&eDieses Item generiert keinen Strom!'
+  - '&eEs wird nur zu Craftingzwecken benutzt.'
 GPS_ANTENNA:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1788,9 +1788,9 @@ TELEPORTER:
   can-be-used-in-workbenches: false
   required-permission: ''
   description:
-  - '&e1: Place it down'
-  - '&e2: Put a GPS Transmission Module in it'
-  - '&e3: Apply a Redstone signal'
+  - '&e1: Platziere ihn'
+  - '&e2: Lege ein GPS Transmission Module in dieses'
+  - '&e3: Schalte ein Redstonesignal'
 COOLING_UNIT:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1805,7 +1805,7 @@ WITHER_PROOF_OBSIDIAN:
   required-permission: ''
 OVEN:
   description:
-  - '&e1: Build the MultiBlock as shown'
-  - '&e2: Put the Ingredients of the Item'
-  - '&eyou want to craft into the Furnace'
-  - '&e3: Right Click the Cobblestone Wall'
+  - '&e1: Baue die MultiBlock-Konstruktion wie gezeigt'
+  - '&e2: Lege die Zutaten für das Item,'
+  - '&edas gecraftet werden soll, in den Ofen'
+  - '&e3: Rechtsklicke die Mauer'
