@@ -412,115 +412,115 @@ enable-researching: true
   cost: 17
   enabled: true
 '103':
-  name: Boots of the Stomper
+  name: Stiefel des Stampfers
   cost: 19
   enabled: true
 '104':
-  name: Pickaxe of the Seeker
+  name: Spitzhacke des Suchendens
   cost: 19
   enabled: true
 '105':
-  name: Backpacks
+  name: Rucksäcke
   cost: 15
   enabled: true
 '106':
-  name: Woven Backpack
+  name: Gewebter Rucksack
   cost: 19
   enabled: true
 '107':
-  name: Crucible
+  name: Schmelztiegel
   cost: 13
   enabled: true
 '108':
-  name: Gilded Backpack
+  name: Vergoldeter Rucksack
   cost: 22
   enabled: true
 '109':
-  name: Automated Mining
+  name: Automatisierter Bergbau
   cost: 17
   enabled: true
 '110':
-  name: Being a Tank
+  name: Ein Panzer sein
   cost: 28
   enabled: true
 '111':
-  name: Armored Jetpack
+  name: Gepanzertes Jetpack
   cost: 27
   enabled: true
 '112':
-  name: Ender Talismans
+  name: Talisman des Enders
   cost: 28
   enabled: true
 '113':
-  name: Automated Farming
+  name: Automatisierte Landwirtschaft
   cost: 13
   enabled: true
 '114':
-  name: Automated Smelting
+  name: Automatisiertes Schmelzen
   cost: 15
   enabled: true
 '115':
-  name: Even more Ores
+  name: Noch mehr Erze
   cost: 10
   enabled: true
 '116':
-  name: Magnetic Metals
+  name: Magnetische Metalle
   cost: 16
   enabled: true
 '117':
-  name: Infused Magnets
+  name: Eingegossene Metalle
   cost: 18
   enabled: true
 '118':
-  name: Speedy Pickaxe
+  name: Flinke Spitzhacke
   cost: 14
   enabled: true
 '119':
-  name: Necromancy
+  name: Totenbeschwörung
   cost: 19
   enabled: true
 '120':
-  name: Soulbound Storage
+  name: Seelengebundene Aufbewahrung
   cost: 22
   enabled: true
 '121':
-  name: Jet Boots
+  name: Jetschuhe
   cost: 25
   enabled: true
 '122':
-  name: Armored Jet Boots
+  name: Gepanzerte Jetschuhe
   cost: 27
   enabled: true
 '123':
-  name: Seismic Axe
+  name: Seismische Axt
   cost: 29
   enabled: true
 '124':
-  name: Pickaxe of Vein Mining
+  name: Spitzhacke des Aderbergbaus
   cost: 29
   enabled: true
 '125':
-  name: Soulbound Weapons
+  name: Seelengebundene Waffen
   cost: 29
   enabled: true
 '126':
-  name: Soulbound Tools
+  name: Seelengebundene Werkzeuge
   cost: 29
   enabled: true
 '127':
-  name: Soulbound Armor
+  name: Seelengebundene Rüstung
   cost: 29
   enabled: true
 '128':
-  name: Capacitors
+  name: Kondensatoren
   cost: 27
   enabled: true
 '129':
-  name: Delicious Drinks
+  name: Köstliche Getränke
   cost: 29
   enabled: true
 '130':
-  name: Repairing Spawners
+  name: Spawnerreparatur
   cost: 15
   enabled: true
 '131':
@@ -528,43 +528,43 @@ enable-researching: true
   cost: 1
   enabled: true
 '132':
-  name: Enhanced Furnace
+  name: Verbesserter Ofen
   cost: 7
   enabled: true
 '133':
-  name: Better Furnaces
+  name: Bessere Öfen
   cost: 18
   enabled: true
 '134':
-  name: High Tier Furnace
+  name: Hochrangiger Ofen
   cost: 29
   enabled: true
 '135':
-  name: Reinforced Furnace
+  name: Verstärkter Ofen
   cost: 32
   enabled: true
 '136':
-  name: Carbonado Edged Furnace
+  name: Karbonadogeränderter Ofen
   cost: 35
   enabled: true
 '137':
-  name: Heating up
+  name: Aufheizen
   cost: 32
   enabled: true
 '138':
-  name: Block Placer
+  name: Blockplatzierer
   cost: 17
   enabled: true
 '139':
-  name: Lazy Panning
+  name: Müßiges Schwenken
   cost: 29
   enabled: true
 '140':
-  name: Compact Smeltery
+  name: Kompakter Schmelzer
   cost: 24
   enabled: true
 '142':
-  name: Turning things around
+  name: Die Sachen umdrehen
   cost: 38
   enabled: true
 '143':
@@ -572,38 +572,38 @@ enable-researching: true
   cost: 22
   enabled: true
 '144':
-  name: Sharing with friends
+  name: Mit Freunden teilen
   cost: 30
   enabled: true
 '145':
-  name: XP Storage
+  name: XP Aufbewahrung
   cost: 13
   enabled: true
 '146':
-  name: Withstanding Explosions
+  name: Explosionsschutz
   cost: 15
   enabled: true
 '147':
-  name: Satellites
+  name: Satelliten
   cost: 30
   enabled: true
 '148':
-  name: Happy Easter
+  name: Frohe Ostern
   cost: 1
   enabled: true
 '149':
-  name: Golden potion
+  name: Goldtrunk
   cost: 24
   enabled: true
 '150':
-  name: Portable Beverages
+  name: Tragbare Getränke
   cost: 24
   enabled: true
 '151':
-  name: Ancient Altar
+  name: Antiker Altar
   cost: 15
   enabled: true
 '152':
-  name: Wither-Proof Obsidian
+  name: Wither-beständiges Obsidian
   cost: 21
   enabled: true
