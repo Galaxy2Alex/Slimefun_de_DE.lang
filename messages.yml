@@ -2,50 +2,50 @@ prefix:
 - '&aSlimefun &7> '
 messages:
   not-researched:
-  - '&4You do not have enough Knowledge to understand this'
+  - '&4Das ist noch zu kompiziert für dich.'
   not-enough-xp:
-  - '&4You do not have enough XP to unlock this'
+  - '&4Du hast nicht genügend Erfahrung um das zu lernen.'
   unlocked:
-  - '&bYou have unlocked &7"%research%"'
+  - '&bDu hast &7"%research%" gelernt.'
   fortune-cookie:
-  - '&7Help me, I am trapped in a Fortune Cookie Factory!'
-  - '&7You will die tomorrow...     by a Creeper'
-  - '&7At some Point in your Life something bad will happen!!!'
-  - '&7Next week you will notice that this is not the real World, you are in a kind
-    of "Matrix" or lets call it Computer game. Yes you are in a Computer Game'
-  - '&7This Cookie will taste good in a few seconds'
-  - '&7You will die soon and the last word you will hear is gonna be "EXTERMINATE!!!"'
-  - '&7Whatever you do, do not hug a Creeper... I tried it. It feels good, but it''s
-    not worth it.'
+  - '&7Hilfe, ich bin in der Glückskeksfabrik gefangen!'
+  - '&7Du wirst morgen sterben...     durch einen Creeper'
+  - '&7Etwas sehr schlimmes wird in deinem Leben passieren!'
+  - '&7Nächste Woche wirst du bemerken, dass dies nicht die echte Welt ist, du bist in
+    einer Art "Matrix". Ja, du bist in einem Computerspiel.'
+  - '&7Dieser Keks ist leider nicht wirklich lecker.'
+  - '&7Luvor.de wird für immer dein Lieblingsserver sein.'
+  - '&7Denk daran, umarme niemals einen Creeper... Ich habs probiert. Glaub mir das
+    ist es nicht wert.'
   only-players:
-  - '&4This Command is only for Players'
+  - '&4Dieser Befehl ist nur für Spieler.'
   no-permission:
-  - '&4You do not have the required Permission to do this'
+  - '&4Dir fehlen die nötigen Rechte dafür.'
   usage:
-  - '&4Usage: &c%usage%'
+  - '&4Verwendung: &c%usage%'
   not-online:
-  - '&4%player% &cis not online!'
+  - '&4%player% &cist nicht online.'
   not-valid-item:
-  - '&4%item% &cis not a valid Item!'
+  - '&4%item% &cist kein echtes Item.'
   given-item:
-  - '&bYou have been given a &7"%item%"'
+  - '&bDu hast ein/e &7"%item%" erhalten'
   give-item:
-  - '&bYou have given %player% a &7"%item%"'
+  - '&bDu hast %player% ein/e &7"%item%" gegeben.'
   not-valid-research:
-  - '&4%research% &cis not a valid Research!'
+  - '&4%research% &cist keine gültige Forschung.'
   give-research:
-  - '&bYou have given %player% the Research &7"%research%"'
+  - '&bDu hast %player% die Forschung &7"%research%" gegeben.'
   battery:
     add:
     - '&2+ &7%charge% J &8(%machine%)'
     remove:
     - '&4- &7%charge% J &8(%machine%)'
   hungry:
-  - '&cYou are too hungry to do that!'
+  - '&cDu bist zu hungrig um das zu tun.'
   mode-change:
-  - '&b%device% Mode changed to: &9%mode%'
+  - '&b%device% Modus gewechselt zu: &9%mode%'
   disabled-in-world:
-  - '&4&lThis Item has been disabled in this World'
+  - '&4&lDieses Item existirt in dieser Welt nicht.'
   talisman:
     anvil:
     - '&a&oYour Talisman saved your Tool from breaking'
