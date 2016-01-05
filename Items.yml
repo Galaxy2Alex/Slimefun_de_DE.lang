@@ -6,7 +6,7 @@ ORE_CRUSHER:
   description:
   - '&e1: Baue die MultiBlock-Konstruktion wie gezeigt'
   - '&e2: Lege das Item, das du verkleinern willst, in den Werfer'
-  - '&e3: Right Click the Nether Fence'
+  - '&e3: Rechtsklicke den Netherzaun'
 GRANDMAS_WALKING_STICK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -30,7 +30,7 @@ ENHANCED_CRAFTING_TABLE:
   description:
   - '&e1: Baue die MultiBlock-Konstruktion wie gezeigt'
   - '&e2: Lege die Zutaten des Items,'
-  - '&eydas du machen willst, in den Dispenser.'
+  - '&edas du craften willst, in den Dispenser.'
   - '&e3: Stelle sicher, dass sie richtig angeordnet sind!'
   - '&e4: Rechtsklicke die Werkbank'
 PORTABLE_ENCHANTER:
