@@ -6,7 +6,7 @@ ORE_CRUSHER:
   description:
   - '&e1: Baue die MultiBlock-Konstruktion wie gezeigt'
   - '&e2: Lege das Item, das du verkleinern willst, in den Werfer'
-  - '&e3: Rechtsklicke den Netherzaun'
+  - '&e3: Klicke rechts auf den Netherzaun'
 GRANDMAS_WALKING_STICK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -32,7 +32,7 @@ ENHANCED_CRAFTING_TABLE:
   - '&e2: Lege die Zutaten des Items,'
   - '&edas du craften willst, in den Dispenser.'
   - '&e3: Stelle sicher, dass sie richtig angeordnet sind!'
-  - '&e4: Rechtsklicke die Werkbank'
+  - '&e4: Klicke rechts auf die Werkbank'
 PORTABLE_ENCHANTER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -57,7 +57,7 @@ GRIND_STONE:
   description:
   - '&e1: Baue die MultiBlock-Konstruktion wie gezeigt'
   - '&e2: Lege das Item, das zerkleinert werden soll, in den Werfer'
-  - '&e3: Rechtsklicke auf den Zaun'
+  - '&e3: Klicke rechts auf auf den Zaun'
 ARMOR_FORGE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -67,7 +67,7 @@ ARMOR_FORGE:
   - '&e2: Lege die Zutaten des Items,'
   - '&edas du craften willst, in den Werfer.'
   - '&e3: Stelle sicher, dass sie richtig angeordnet sind!'
-  - '&e4: Rechtsklicke auf den Amboss'
+  - '&e4: Klicke rechts auf auf den Amboss'
 COMPRESSOR:
   enabled: true
   can-be-used-in-workbenches: false
@@ -75,7 +75,7 @@ COMPRESSOR:
   description:
   - '&e1: Baue die MultiBlock-Konstruktion wie gezeigt'
   - '&e2: Lege das Item, das gepresst werden soll, in den Werfer'
-  - '&e3: Rechtsklicke den Netherzaun'
+  - '&e3: Klicke rechts auf den Netherzaun'
 MAGIC_LUMP_1:
   enabled: true
   can-be-used-in-workbenches: false
@@ -194,7 +194,7 @@ SMELTERY:
   - '&e1: Baue die MultiBlock-Konstruktion wie gezeigt'
   - '&e2: Lege die Zutaten für das Item, das'
   - '&egecraftet werden soll, in den Werfer.'
-  - '&e3: Rechtsklicke den Netherzaun'
+  - '&e3: Klicke rechts auf den Netherzaun'
 PRESSURE_CHAMBER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -203,7 +203,7 @@ PRESSURE_CHAMBER:
   - '&e1: Baue die MultiBlock-Konstruktion wie gezeigt'
   - '&e2: Lege die Zutaten für das Item,'
   - '&edas gecraftet werden soll, in den Dispenser'
-  - '&e3: Rechtsklicke den Kessel'
+  - '&e3: Klicke rechts auf den Kessel'
 GLOWSTONE_HELMET:
   enabled: true
   can-be-used-in-workbenches: false
@@ -457,7 +457,7 @@ CHARGING_STATION:
   - '&e2: Lege das Item, das aufgeladen werden soll, in den oberen Slot'
   - '&e3: Lege die Batterie/Energiezelle/Treibstoffzelle,'
   - '&evon der du den Strom haben willst in den unteren Slot'
-  - '&e4: Rechtsklicke den Netherzaun'
+  - '&e4: Klicke rechts auf den Netherzaun'
 DURALUMIN_JETPACK:
   enabled: true
   can-be-used-in-workbenches: false
@@ -539,7 +539,7 @@ MAGIC_WORKBENCH:
   - '&e2: Lege die Zutaten für das Item,'
   - '&edas gecraftet werden soll, in den Werfer'
   - '&e3: Stelle sicher, dass sie richtig angeordnet sind!'
-  - '&e4: Rechtsklicke die Werkbank'
+  - '&e4: Klicke rechts auf die Werkbank'
 STAFF_ELEMENTAL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -710,7 +710,7 @@ ORE_WASHER:
   description:
   - '&e1: Baue die MultiBlock-Konstruktion wie gezeigt'
   - '&e2: Lege das Item, das gewaschen werden soll, in den Werfer'
-  - '&e3: Rechtsklicke den Zaun'
+  - '&e3: Klicke rechts auf den Zaun'
 GOLD_24K:
   enabled: true
   can-be-used-in-workbenches: false
@@ -769,7 +769,7 @@ SOLAR_PANEL:
   required-permission: ''
   description:
   - '&eDieses Item generiert keinen Strom!'
-  - '&eEs wird nur für Craftingzwecke gedacht.'
+  - '&eEs ist nur für Craftingzwecke gedacht.'
 SOLAR_HELMET:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1096,9 +1096,9 @@ WIZARD_TALISMAN:
   required-permission: ''
 ENDER_WIZARD_TALISMAN:
   description:
-  - '&eEnder Talismans have the advantage'
-  - '&eof still working while they'
-  - '&eare in your Ender Chest'
+  - '&eEnder Talismane haben den Vorteil,'
+  - '&edass sie immer noch funktionieren,'
+  - '&ewährend sie in einer Endertruhe sind'
   enabled: true
   can-be-used-in-workbenches: false
   required-permission: ''
@@ -1282,7 +1282,7 @@ SAW_MILL:
   required-permission: ''
   description:
   - '&e1: Baue die gezeigte MultiBlock-Konstruktion'
-  - '&e2: Rechtsklicke die Werkbank'
+  - '&e2:Klicke rechts auf die Werkbank'
 SAW_MILL2:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1313,7 +1313,7 @@ DIGITAL_MINER:
   required-permission: ''
   description:
   - '&e1: Build it where you suspect Ores'
-  - '&e2: Right Click the Dispenser'
+  - '&e2: Klicke rechts auf Werfer'
   - ''
   - '&7Range: &b8x8'
 ADVANCED_DIGITAL_MINER:
@@ -1322,7 +1322,7 @@ ADVANCED_DIGITAL_MINER:
   required-permission: ''
   description:
   - '&e1: Baue es dahin, wo du viele Erze vermutest'
-  - '&e2: Rechtsklicke den Werfer'
+  - '&e2: Klicke rechts auf den Werfer'
   - '&eEs macht aus Eisen/Gold Pulver und'
   - '&everdoppelt auch alle anderen Erze'
   - ''
@@ -1337,7 +1337,7 @@ COMPOSTER:
   required-permission: ''
   description:
   - '&e1: Crafte die Maschine wie gezeigt'
-  - '&e2: Rechtsklicke den Kessel mit der Zutat in der Hand,'
+  - '&e2: Klicke rechts auf den Kessel mit der Zutat in der Hand,'
   - '&edie für das Item, das du craften möchtest, benötigt wird.'
 FARMER_SHOES:
   enabled: true
@@ -1355,7 +1355,7 @@ AUTOMATED_PANNING_MACHINE:
   required-permission: ''
   description:
   - '&e1: Baue die gezeigte MultiBlock-Konstruktion'
-  - '&e2: Rechtsklicke die Falltür mit Kies'
+  - '&e2: Klicke rechts auf  die Falltür mit Kies'
 BOOTS_OF_THE_STOMPER:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1386,7 +1386,7 @@ CRUCIBLE:
   required-permission: ''
   description:
   - '&e1: Crafte die Maschine wie gezeigt'
-  - '&e2: Rechtsklicke den Kessel mit der Zutat,'
+  - '&e2: Klicke rechts auf den Kessel mit der Zutat,'
   - '&edie für das Craften des Items benötigt wird'
   - '&e3: Beobachte, wie die Flüssigkeit generiert wird (dauert ein paar Sekunden)'
 GILDED_BACKPACK:
@@ -1590,7 +1590,7 @@ JUICER:
   description:
   - '&e1: Baue die gezeigte MultiBlock-Konstruktion'
   - '&e2: Lege die Früchte in den Werfer'
-  - '&e3: Rechtsklicke den Netherzaun'
+  - '&e3: Klicke rechts auf den Netherzaun'
 APPLE_JUICE:
   enabled: true
   can-be-used-in-workbenches: false
@@ -1626,7 +1626,7 @@ SOUL_FORGE:
   description:
   - '&e1: Crafte die Maschine wie gezeigt'
   - '&e2: Platziere sie down'
-  - '&e3: Rechtsklicke es mit einem Broken Spawner,'
+  - '&e3: Klicke rechts auf es mit einem Broken Spawner,'
   - '&eum es in einen Reinforced Spawner umzuwandeln'
 ENHANCED_FURNACE:
   enabled: true
@@ -1808,4 +1808,4 @@ OVEN:
   - '&e1: Baue die MultiBlock-Konstruktion wie gezeigt'
   - '&e2: Lege die Zutaten für das Item,'
   - '&edas gecraftet werden soll, in den Ofen'
-  - '&e3: Rechtsklicke die Mauer'
+  - '&e3: Klicke rechts auf die Mauer'
