@@ -1,22 +1,22 @@
 enable-researching: true
 '0':
-  name: Walking Sticks
+  name: Gehstöcke
   cost: 1
   enabled: true
 '1':
-  name: Portable Crafter
+  name: Tragbare Werkbank
   cost: 1
   enabled: true
 '2':
-  name: Fortune Cookie
+  name: Glückskeks
   cost: 1
   enabled: true
 '3':
-  name: Portable Enchanter
+  name: Tragbarer Verzauberungstisch
   cost: 4
   enabled: true
 '4':
-  name: Portable Dustbin
+  name: Tragbarer Mülleimer
   cost: 2
   enabled: true
 '5':
@@ -24,31 +24,31 @@ enable-researching: true
   cost: 2
   enabled: true
 '6':
-  name: Armor Crafting
+  name: Rüstungsherstellung
   cost: 2
   enabled: true
 '8':
-  name: Lumps and Magic
+  name: Brocken & Magie
   cost: 3
   enabled: true
 '9':
-  name: Ender Backpack
+  name: Enderrucksack
   cost: 4
   enabled: true
 '7':
-  name: Glowstone Armor
+  name: Glowstonerüstung
   cost: 3
   enabled: true
 '10':
-  name: Ender Armor
+  name: Enderrüstung
   cost: 4
   enabled: true
 '11':
-  name: Magic Eye of Ender
+  name: Magisches Enderauge
   cost: 4
   enabled: true
 '12':
-  name: Magic Sugar
+  name: Magischer Zucker
   cost: 4
   enabled: true
 '13':
@@ -56,47 +56,47 @@ enable-researching: true
   cost: 5
   enabled: true
 '14':
-  name: Slime Armor
+  name: Schleimrüstung
   cost: 5
   enabled: true
 '15':
-  name: Sword of Beheading
+  name: Schwert der Geköpften
   cost: 6
   enabled: true
 '16':
-  name: Electric Work
+  name: Elektronik
   cost: 8
   enabled: true
 '17':
-  name: Advanced Electricity
+  name: Fortgeschrittene Elektrizität
   cost: 9
   enabled: true
 '18':
-  name: Hot Smelting
+  name: Heiße Schmelzerei
   cost: 10
   enabled: true
 '19':
-  name: Steel Age
+  name: Zeit des Stahls
   cost: 11
   enabled: true
 '20':
-  name: Power Storage
+  name: Energiespeicherung
   cost: 12
   enabled: true
 '21':
-  name: Power Creation
+  name: Energieerzeugung
   cost: 13
   enabled: true
 '22':
-  name: Steel Plating
+  name: Stahlbeschichtung
   cost: 14
   enabled: true
 '23':
-  name: Steel Thruster
+  name: Stahltriebwerk
   cost: 14
   enabled: true
 '24':
-  name: Parachute
+  name: Fallschirm
   cost: 15
   enabled: true
 '25':
