@@ -100,7 +100,7 @@ enable-researching: true
   cost: 15
   enabled: true
 '25':
-  name: Grappling Hook
+  name: Greifhaken
   cost: 15
   enabled: true
 '26':
@@ -108,115 +108,115 @@ enable-researching: true
   cost: 22
   enabled: true
 '27':
-  name: Multi Tools
+  name: Multifunktionswerkzeuge
   cost: 18
   enabled: true
 '28':
-  name: Solar Power
+  name: Solarenergie
   cost: 17
   enabled: true
 '29':
-  name: Elemental Staves
+  name: Stäbe der Elemente
   cost: 17
   enabled: true
 '30':
-  name: Grind Stone
+  name: Schleifstein
   cost: 4
   enabled: true
 '31':
-  name: Cactus Suit
+  name: Cactusanzug
   cost: 5
   enabled: true
 '32':
-  name: Gold Pan
+  name: Goldwaschpfanne
   cost: 5
   enabled: true
 '33':
-  name: Magical Book Binding
+  name: Magische Buchbinderei
   cost: 5
   enabled: true
 '34':
-  name: New Metals
+  name: Neue Metalle
   cost: 6
   enabled: true
 '35':
-  name: Ore Doubling
+  name: Erzverdopplung
   cost: 6
   enabled: true
 '36':
-  name: Bronze Creation
+  name: Bronzeherstellung
   cost: 8
   enabled: true
 '37':
-  name: Advanced Alloys
+  name: Fortgeschrittene Legierungen
   cost: 12
   enabled: true
 '38':
-  name: Carbon Creation
+  name: Karbonherstellung
   cost: 9
   enabled: true
 '39':
-  name: Bakery Innovation
+  name: Backinnovationen
   cost: 1
   enabled: true
 '40':
-  name: Gilded Iron Armor
+  name: Vergoldete Eisenrüstung
   cost: 16
   enabled: true
 '41':
-  name: Synthetic Diamonds
+  name: Künstlicher Diamant
   cost: 10
   enabled: true
 '42':
-  name: Pressure Chamber
+  name: Druckkammer
   cost: 14
   enabled: true
 '43':
-  name: Synthetic Sapphires
+  name: Künstlicher Saphir
   cost: 16
   enabled: true
 '44':
-  name: Charging Station
+  name: Ladestation
   cost: 18
   enabled: true
 '45':
-  name: Damascus Steel
+  name: Damaskusstahl
   cost: 17
   enabled: true
 '46':
-  name: Damascus Steel Armor
+  name: Damaskusstahlrüstung
   cost: 18
   enabled: true
 '47':
-  name: Reinforced Alloy
+  name: Verstärkte Legierung
   cost: 22
   enabled: true
 '48':
-  name: Black Diamonds
+  name: Schwarze Diamanten
   cost: 26
   enabled: true
 '49':
-  name: Energy Cells
+  name: Energiezellen
   cost: 19
   enabled: true
 '50':
-  name: Magic Workbench
+  name: Magische Werkbank
   cost: 12
   enabled: true
 '51':
-  name: Wind Staff
+  name: Stab des Windes
   cost: 17
   enabled: true
 '52':
-  name: Reinforced Armor
+  name: Verstärkte Rüstung
   cost: 26
   enabled: true
 '53':
-  name: Ore Washer
+  name: Erzwäscher
   cost: 5
   enabled: true
 '54':
-  name: Pure Gold
+  name: Reingold
   cost: 7
   enabled: true
 '55':
@@ -224,191 +224,191 @@ enable-researching: true
   cost: 12
   enabled: true
 '56':
-  name: Fire Staff
+  name: Stab des Feuers
   cost: 2
   enabled: true
 '57':
-  name: Smelters Pickaxe
+  name: Spitzhacke des Schmelzers
   cost: 17
   enabled: true
 '58':
-  name: Common Talisman
+  name: Talisman
   cost: 14
   enabled: true
 '59':
-  name: Talisman of the Anvil
+  name: Talisman des Amboss
   cost: 18
   enabled: true
 '60':
-  name: Talisman of the Miner
+  name: Talisman des Minenarbeiters
   cost: 18
   enabled: true
 '61':
-  name: Talisman of the Hunter
+  name: Talisman des Jägers
   cost: 18
   enabled: true
 '62':
-  name: Talisman of the Lava Walker
+  name: Talisman des Feuergängers
   cost: 18
   enabled: true
 '63':
-  name: Talisman of the Water Breather
+  name: Talisman des Wasseratmers
   cost: 18
   enabled: true
 '64':
-  name: Talisman of the Angel
+  name: Talisman des Engels
   cost: 18
   enabled: true
 '65':
-  name: Talisman of the Firefighter
+  name: Talisman des Feuerlöschers
   cost: 18
   enabled: true
 '66':
-  name: Infite Power
+  name: Unendliche Kraft
   cost: 22
   enabled: true
 '67':
-  name: Firey Situation
+  name: Feurige Situation
   cost: 14
   enabled: true
 '68':
-  name: Talisman of the Magician
+  name: Talisman des Magiers
   cost: 20
   enabled: true
 '69':
-  name: Talisman of the Traveller
+  name: Talisman des Reisenden
   cost: 20
   enabled: true
 '70':
-  name: Talisman of the Warrior
+  name: Talisman des Kriegers
   cost: 20
   enabled: true
 '71':
-  name: Talisman of the Knight
+  name: Talisman des Ritters
   cost: 20
   enabled: true
 '72':
-  name: Shiny Iron
+  name: Funkelndes Eisen
   cost: 11
   enabled: true
 '73':
-  name: Fake Gem
+  name: Gefälschter Edelstein
   cost: 17
   enabled: true
 '74':
-  name: Chainmail Armor
+  name: Kettenrüstung
   cost: 8
   enabled: true
 '75':
-  name: Talisman of the Whirlwind
+  name: Talisman des Wirbelwindes
   cost: 19
   enabled: true
 '76':
-  name: Talisman of the Wizard
+  name: Talisman des Zauberers
   cost: 22
   enabled: true
 '77':
-  name: Lumber Axe
+  name: Holzfälleraxt
   cost: 21
   enabled: true
 '78':
-  name: 5 Star Chef
+  name: 5-Sterne-Koch
   cost: 6
   enabled: true
 '79':
-  name: Hazmat Suit
+  name: Chemikalienschutzanzug
   cost: 21
   enabled: true
 '80':
-  name: Radioactive
+  name: Radioaktiv
   cost: 30
   enabled: true
 '81':
-  name: Ore Purification
+  name: Erzaufbereitung
   cost: 25
   enabled: true
 '82':
-  name: Nuclear Power Production
+  name: Nuklearenergieerzeugung
   cost: 32
   enabled: true
 '83':
-  name: Thermal Power Production
+  name: Wärmeenergieerzeugung
   cost: 24
   enabled: true
 '84':
-  name: Redstone Alloy
+  name: Redstonelegierung
   cost: 16
   enabled: true
 '85':
-  name: Top Tier Machines
+  name: Maschinen der höchsten Stufe
   cost: 24
   enabled: true
 '86':
-  name: First Aid
+  name: Erste Hilfe
   cost: 2
   enabled: true
 '87':
-  name: Shiny Armor
+  name: Funkelnde Rüstung
   cost: 13
   enabled: true
 '88':
-  name: Familiar Resources
+  name: Bekannte Resourcen
   cost: 3
   enabled: true
 '89':
-  name: Night Vision Goggles
+  name: Nachtsichtgerät
   cost: 10
   enabled: true
 '90':
-  name: Pickaxe of Containment
+  name: Spitzhacke der Eindämmung
   cost: 14
   enabled: true
 '91':
-  name: Hercules Pickaxe
+  name: Spitzhacke des Herkules
   cost: 28
   enabled: true
 '92':
-  name: Saw Mill
+  name: Sägemühle
   cost: 2
   enabled: true
 '93':
-  name: Slimy Steel Armor
+  name: Schleimige Stahlrüstung
   cost: 27
   enabled: true
 '94':
-  name: Blade of Vampires
+  name: Klinge der Vampire
   cost: 26
   enabled: true
 '95':
-  name: Lazy Mining
+  name: Träger Minenbau
   cost: 40
   enabled: true
 '96':
-  name: Water Staff
+  name: Stab des Wassers
   cost: 8
   enabled: true
 '97':
-  name: Golden City
+  name: Stadt des Goldes
   cost: 19
   enabled: true
 '98':
-  name: Advanced Mining 101
+  name: Fortgeschrittener Bergbau 1x1
   cost: 42
   enabled: true
 '99':
-  name: Composting Dirt
+  name: Kompostieren
   cost: 3
   enabled: true
 '100':
-  name: Farmer Shoes
+  name: Schuhe des Farmers
   cost: 4
   enabled: true
 '101':
-  name: Explosive Pickaxe
+  name: Explodierende Spitzhacke
   cost: 28
   enabled: true
 '102':
-  name: Automated Gold Pan
+  name: Autmatische Goldwaschpfanne
   cost: 17
   enabled: true
 '103':
